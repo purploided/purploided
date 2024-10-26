@@ -1,37 +1,29 @@
-![llennbanner](https://user-images.githubusercontent.com/93119331/210502371-6c9a5372-ca4f-4805-aad3-44b7eeb3cd5d.png)
+<img src="https://cdn.discordapp.com/attachments/1237991911332122626/1299622043406438452/banner.png?ex=671dded8&is=671c8d58&hm=f497589208a08fbb0394d9819302ffc572b4ccc9e5dd326bdb10176fe5713012&">
+<h1 align="center">Hi 👋, I'm Nicole/purploid</h1>
+<h3 align="center">I'm a front-end website developer from Australia</h3>
 
-# Intro
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=purploided&label=Profile%20views&color=0e75b6&style=flat" alt="purploided" /> </p>
 
-Hey! I'm Nicohlas. I'm a Full Stack Developer from Australia. full stop
-**MOVING ON.**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purploided" alt="purploided" /></a> </p>
 
-<h1 align="left">Languages and Tools</h1>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently working on [Re-Find, The 0 Logging Search Engine](https://github.com/purploided/Re-Find)
 
-# About Me
+- 🔭 I'm also working on the sister project [Re-Type, The Lightweight Typing Tester](https://github.com/purploided/Re-Type)
 
-I love to play video games! I know it may come as a surprise, since I am a 15 year old teenager.. *sarcasm*, but I play games in my free time (while im not crying, or programming)! I love video games such as: BeamNG.Drive, DiRT Rally 2.0, and more. **and i like anime, senko stan**
+- 👨‍💻 You can find my main project @ [re-find.net](re-find.net)
 
-I have Autism & ADHD, I have two dogs, & I love cats!
+- 📫 How to reach me **Discord: purploid**
 
-# My Computer (below)
+- ⚡ Fun fact **I think I'm funny..**
 
-![IMG](https://cdn.discordapp.com/attachments/1012946217279434784/1017015336073183293/4939A1C1-46BB-42B1-AF01-B11928803584.jpg)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/nicohlasdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicohlasdev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/purploid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="purploid" height="30" width="40" /></a>
+</p>
 
-# My Socials
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-- [YouTube](https://www.youtube.com/Nicohlas)
-- [Twitch](https://www.twitch.tv/nicohlasplus)
-- [Discord](https://discord.gg/sVpwzNUBvx)
-- [Website](https://goggle-net.tk)
-- [Buy Me a Coffee](https://www.buymeacoffee.com/nicoh)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=purploided&show_icons=true&locale=en&layout=compact" alt="purploided" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=purploided&" alt="purploided" />
 
-# Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicohlasdev&show_icons=true&locale=en&layout=compact" alt="nicohlasdev" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicohlasdev&show_icons=true&locale=en" alt="nicohlasdev" /></p>
-
-# Bye!
-
-👋
