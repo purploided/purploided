@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Re-Find, The 0 Logging Search Engine](https://github.com/purploided/Re-Find)
 
-- 🔭 I'm also working on the sister project [Re-Type, The Lightweight Typing Tester](https://github.com/purploided/Re-Type)
+- 🔭 I'm also working on the sister project [Quill 🪶, The Lightweight Typing Tester](https://github.com/purploided/Quill)
 
 - 👨‍💻 You can find my main project @ [re-find.net](re-find.net)
 
