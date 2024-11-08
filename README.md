@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1237991911332122626/1299622043406438452/banner.png?ex=671dded8&is=671c8d58&hm=f497589208a08fbb0394d9819302ffc572b4ccc9e5dd326bdb10176fe5713012&">
+![banner](https://github.com/user-attachments/assets/5452e5ef-7d1e-4409-a37f-ba0bd000238e)
 <h1 align="center">Hi 👋, I'm Nicole/purploid</h1>
 <h3 align="center">I'm a front-end website developer from Australia</h3>
 
