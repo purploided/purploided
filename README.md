@@ -1,29 +1,109 @@
-![banner](https://github.com/user-attachments/assets/5452e5ef-7d1e-4409-a37f-ba0bd000238e)
-<h1 align="center">Hi 👋, I'm Nicole/purploid</h1>
-<h3 align="center">I'm a front-end website developer from Australia</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9,10,11&height=300&section=header&text=Nicole%20/%20purploid&fontSize=50&fontAlignY=35&desc=Front-End%20Developer%20|%20Australia&descAlignY=55&descAlign=50&animation=fadeIn" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=purploided&label=Profile%20views&color=0e75b6&style=flat" alt="purploided" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=9d4edd&vCenter=true&pause=1000&size=22" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purploided" alt="purploided" /></a> </p>
+## 💫 About Me
 
-- 🔭 I’m currently working on [Re-Find, The 0 Logging Search Engine](https://github.com/purploided/Re-Find)
+```typescript
+const nicole = {
+  pronouns: "she/her",
+  location: "Australia 🇦🇺",
+  currentFocus: "Building amazing web experiences",
+  funFact: "I debug with console.log and I'm not ashamed 😅",
+  
+  workingOn: [
+    "Re-Find: The 0 Logging Search Engine",
+    "Quill: The Lightweight Typing Tester"
+  ],
+  
+  askMeAbout: ["JavaScript", "React", "Node.js", "UI/UX", "Coffee ☕"],
+  
+  contactMe: {
+    discord: "purploid",
+    twitter: "@nicohlasdev",
+    youtube: "purploid"
+  }
+};
+```
 
-- 🔭 I'm also working on the sister project [Quill 🪶, The Lightweight Typing Tester](https://github.com/purploided/Quill)
+## 🚀 Featured Projects
 
-- 👨‍💻 You can find my main project @ [re-find.net](re-find.net)
+<div align="center">
 
-- 📫 How to reach me **Discord: purploid**
+[![Quill](https://github-readme-stats.vercel.app/api/pin/?username=purploided&repo=Quill&theme=tokyonight&hide_border=true)](https://github.com/purploided/Quill)
 
-- ⚡ Fun fact **I think I'm funny..**
+[![Re-Find](https://github-readme-stats.vercel.app/api/pin/?username=purploided&repo=Re-Find&theme=tokyonight&hide_border=true)](https://github.com/purploided/Re-Find)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nicohlasdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicohlasdev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/purploid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="purploid" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Arsenal
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=purploided&show_icons=true&locale=en&layout=compact" alt="purploided" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=purploided&" alt="purploided" />
+<div align="center">
 
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+### Design & Others
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purploided&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=purploided&theme=tokyonight&hide_border=true" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=purploided&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
+</div>
+
+## 🌐 Let's Connect
+
+<div align="center">
+  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nicohlasdev)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/purploid)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/purploid)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://purploid.xyz)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9,10,11&height=100&section=footer" />
+  
+  **Thanks for visiting! 💜**
+  
+  <img src="https://komarev.com/ghpvc/?username=purploided&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
