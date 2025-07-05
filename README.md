@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=9d4edd&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Front-End+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=9d4edd&vCenter=true&pause=1000&size=22" />
 </div>
 
 ## 💫 About Me
