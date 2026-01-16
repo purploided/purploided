@@ -9,8 +9,7 @@
 ## 💫 About Me
 
 ```typescript
-const nicole = {
-  pronouns: "she/her",
+const nick = {
   location: "Australia 🇦🇺",
   currentFocus: "Building amazing web experiences",
   funFact: "I debug with console.log and I'm not ashamed 😅",
@@ -24,8 +23,6 @@ const nicole = {
   
   contactMe: {
     discord: "purploid",
-    twitter: "@nicohlasdev",
-    youtube: "purploid"
   }
 };
 ```
