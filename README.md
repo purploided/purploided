@@ -30,16 +30,6 @@ const nicole = {
 };
 ```
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Quill](https://github-readme-stats.vercel.app/api/pin/?username=purploided&repo=Quill&theme=tokyonight&hide_border=true)](https://github.com/purploided/Quill)
-
-[![Re-Find](https://github-readme-stats.vercel.app/api/pin/?username=purploided&repo=Re-Find&theme=tokyonight&hide_border=true)](https://github.com/purploided/Re-Find)
-
-</div>
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -71,27 +61,10 @@ const nicole = {
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purploided&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=purploided&theme=tokyonight&hide_border=true" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=purploided&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
 ## 🌐 Let's Connect
 
 <div align="center">
-  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nicohlasdev)
+
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/purploid)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/purploid)
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://purploid.xyz)
