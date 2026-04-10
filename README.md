@@ -22,7 +22,7 @@ const nick = {
   askMeAbout: ["JavaScript", "React", "Node.js", "UI/UX", "Coffee ☕"],
   
   contactMe: {
-    discord: "purploid",
+    website: "purploid.xyz",
   }
 };
 ```
